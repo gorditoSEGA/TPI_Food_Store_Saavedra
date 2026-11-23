@@ -5,7 +5,7 @@
 
 Aplicación web para un negocio de comidas: los clientes se registran, recorren el catálogo, arman un carrito y confirman pedidos; el administrador gestiona categorías, productos, stock, pedidos y usuarios.
 
-- **Repositorio:** <URL_DEL_REPOSITORIO_GITHUB>
+- **Repositorio:** https://github.com/gorditoSEGA/TPI_Food_Store_Saavedra
 - **Video de demostración:** <URL_DEL_VIDEO>
 
 ## Requisitos
